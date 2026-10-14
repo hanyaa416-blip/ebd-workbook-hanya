@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fb;
+}
+
+.stock-line {
+  padding: 12px;
+  color: #263238;
+}
